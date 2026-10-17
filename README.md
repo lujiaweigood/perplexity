@@ -1,1 +1,1 @@
-# perplexity
+Explain how agentic AI can transform cloud cybersecurity by autonomously detecting, investigating, and remediating threats in AWS environments. Compare traditional rule-based security automation with AI agents that use reasoning, tools, and real-time evidence. Include a practical example involving AWS GuardDuty, IAM misconfigurations, and automated remediation. Discuss the challenges of accuracy, security, and human oversight, citing reliable technical sources.
